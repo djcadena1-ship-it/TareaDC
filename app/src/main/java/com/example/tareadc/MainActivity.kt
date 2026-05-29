@@ -60,7 +60,7 @@ fun AppNavigation() {
         }
     }
 }
-
+//segundo avance
 // ==========================================
 // PANTALLA 1: INGRESO DE DATOS
 // ==========================================
