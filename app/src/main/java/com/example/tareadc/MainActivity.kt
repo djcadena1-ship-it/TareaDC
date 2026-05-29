@@ -188,9 +188,9 @@ fun ResultScreen(navController: NavHostController, nombre: String, imc: Float) {
 
 
 
-// ==========================================
-// VISTAS PREVIAS PARA ANDROID STUDIO
-// ==========================================
+
+// vista previa en local
+
 
 @Preview(showBackground = true, name = "Pantalla de Ingreso")
 @Composable
