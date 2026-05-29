@@ -167,7 +167,7 @@ fun ResultScreen(navController: NavHostController, nombre: String, imc: Float) {
         )
         Spacer(modifier = Modifier.height(10.dp))
 
-        // 3 interfaz dinamica (color cambia segun resultado)
+        // 3 interfaz dinamica (color cambia segun el resultado)
         Text(
             text = categoria,
             fontSize = 24.sp,
