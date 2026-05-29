@@ -107,7 +107,7 @@ fun InputScreen(navController: NavHostController) {
         )
         Spacer(modifier = Modifier.height(20.dp))
 
-        // 1 validacion y error en rojo
+        // 1 validacion y error en color rojo
         if (showError) {
             Text(
                 text = "Por favor, ingresa valores válidos (mayores a 0)",
